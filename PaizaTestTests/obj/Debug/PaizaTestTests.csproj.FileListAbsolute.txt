@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\PaizaTest\PaizaTestTests\bin\Debug\input.txt
+c:\users\user\documents\visual studio 2015\Projects\PaizaTest\PaizaTestTests\bin\Debug\answer.txt
+c:\users\user\documents\visual studio 2015\Projects\PaizaTest\PaizaTestTests\bin\Debug\PaizaTestTests.dll
+c:\users\user\documents\visual studio 2015\Projects\PaizaTest\PaizaTestTests\bin\Debug\PaizaTestTests.pdb
+c:\users\user\documents\visual studio 2015\Projects\PaizaTest\PaizaTestTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\PaizaTest\PaizaTestTests\bin\Debug\PaizaTest.exe
+c:\users\user\documents\visual studio 2015\Projects\PaizaTest\PaizaTestTests\bin\Debug\PaizaTest.pdb
+c:\users\user\documents\visual studio 2015\Projects\PaizaTest\PaizaTestTests\bin\Debug\ja\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\PaizaTest\PaizaTestTests\obj\Debug\PaizaTestTests.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\PaizaTest\PaizaTestTests\obj\Debug\PaizaTestTests.dll
+c:\users\user\documents\visual studio 2015\Projects\PaizaTest\PaizaTestTests\obj\Debug\PaizaTestTests.pdb

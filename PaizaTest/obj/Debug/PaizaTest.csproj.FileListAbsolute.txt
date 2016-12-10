@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2015\Projects\PaizaTest\PaizaTest\bin\Debug\input.txt
+c:\users\user\documents\visual studio 2015\Projects\PaizaTest\PaizaTest\bin\Debug\answer.txt
+c:\users\user\documents\visual studio 2015\Projects\PaizaTest\PaizaTest\bin\Debug\PaizaTest.exe.config
+c:\users\user\documents\visual studio 2015\Projects\PaizaTest\PaizaTest\bin\Debug\PaizaTest.exe
+c:\users\user\documents\visual studio 2015\Projects\PaizaTest\PaizaTest\bin\Debug\PaizaTest.pdb
+c:\users\user\documents\visual studio 2015\Projects\PaizaTest\PaizaTest\obj\Debug\PaizaTest.exe
+c:\users\user\documents\visual studio 2015\Projects\PaizaTest\PaizaTest\obj\Debug\PaizaTest.pdb
