@@ -21,12 +21,12 @@ namespace PaizaTest {
         static System.IO.StreamWriter sw = new System.IO.StreamWriter("output.txt",false);
 
         static Program() {
-            Console.SetIn(new System.IO.StreamReader("input.txt"));
+            System.Console.SetIn(new System.IO.StreamReader("input.txt"));
 
             //var sw = new System.IO.StreamWriter("output.txt",false);
             //sw.AutoFlush = true;
 
-            Console.SetOut(sw);
+            System.Console.SetOut(sw);
         }
 
         public static System.IO.StreamReader GetExpectedAnswerStreamReader() {
