@@ -7,7 +7,10 @@ using System.Threading.Tasks;
 namespace PaizaTest {
     public class Program {
         public static void Main(string[] args) {
-
+            // 自分の得意な言語で
+            // Let's チャレンジ！！
+            var line = System.Console.ReadLine();
+            System.Console.WriteLine("XXXXXX");
         }
 
         static System.IO.StreamWriter sw = new System.IO.StreamWriter("output.txt",false);
